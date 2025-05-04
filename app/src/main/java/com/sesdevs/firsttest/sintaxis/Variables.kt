@@ -2,7 +2,7 @@ package com.sesdevs.firsttest.sintaxis
 
 fun main(){
 
-    var myName = "dl"
+    var myName = "dlx"
     println(myName)
     myName = "dlozano"
     println(myName)
