@@ -1,13 +1,17 @@
-package com.sesdevs.firsttest.sintaxis
+package dev.josegaldamez.firsttest.sintaxis
 
 fun main(){
 
-    var myName = "dlx"
+    var myName = "Jose Galdamez"
     println(myName)
-    myName = "dlozano"
+
+    myName = "Jose Oveniel Galdamez Ramos"
     println(myName)
 
     val myAge = 32
     println(myAge)
-    // myAge = 31
+
+    // myAge = 35 // Error de compilacion porque val es inmutable
+
+
 }

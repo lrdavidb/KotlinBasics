@@ -1,12 +1,11 @@
-package com.sesdevs.firsttest.sintaxis
+package dev.josegaldamez.firsttest.sintaxis
 
 fun main(){
 
-    // comentarios
-
+    // Esto es un comentario
     println("Hola mundo")
     println(5)
-    println(null)
+    // println(null)
     println(true)
-    println("fin de programa")
+    println("Fin del programa")
 }
